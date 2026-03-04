@@ -1,0 +1,9 @@
+.cuadro-texto input{
+    height: 80px;
+    width: 400px;
+
+}
+
+.activo{    
+    background-color: blue;
+}
